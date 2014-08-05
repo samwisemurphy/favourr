@@ -1,0 +1,82 @@
+html, body {
+	padding:0;
+	margin:0;
+	background-color:#bdc3c7;
+}
+
+.birds {
+	height: 800px;
+	text-align: center;
+	background: url('../images/helping.jpg');	
+	padding-top: 250px;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+.home {
+	
+}
+
+.container h3 {
+	font-size: 60px;
+	padding-top: 100px;
+}
+
+nav bar {
+	padding-left: 15px;
+}
+
+.inline {
+	display: inline;
+}
+
+.row h3 {
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 0;
+	
+}
+
+.height-250 {
+	height:250px!important;
+}
+
+.top {
+	margin-top: 125px;
+}
+
+.bottom {
+	height:800px;
+	text-align: center;
+	background: url('../images/ocean.jpg');
+}
+
+.jump {
+	height: 400px;
+	text-align: center;
+	background: url('../images/jump.jpg');
+	background-repeat: no-repeat;
+}
+
+
+.padding-top-none {
+	padding-top: none;
+	
+}
+
+.padding-bttm-none {
+	padding-bottom: none!important;
+}
+.grey {
+	background-color: #aba5a5;
+}
+
+
+	
+
+/*-------- BORDER RADIUS SECTION --------*/
+
+
+/*-------- TEXT SECTION --------*/
+
+
